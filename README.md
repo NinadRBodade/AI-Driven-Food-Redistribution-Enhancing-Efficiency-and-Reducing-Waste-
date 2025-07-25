@@ -1,4 +1,4 @@
-#AI-Driven Food Redistribution: Enhancing Efficiency and Reducing Waste
+# AI-Driven Food Redistribution: Enhancing Efficiency and Reducing Waste
 
 # AI-Driven Food Redistribution System
 

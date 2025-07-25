@@ -1,7 +1,5 @@
 # AI-Driven Food Redistribution: Enhancing Efficiency and Reducing Waste
 
-# AI-Driven Food Redistribution System
-
 ## 📌 Overview
 
 The **AI-Driven Food Redistribution System** is a web-based intelligent platform designed to **minimize food waste** and **maximize food donations** using cutting-edge Artificial Intelligence and Machine Learning techniques. The system connects **restaurants**, **caterers**, **individual donors**, and **NGOs** to streamline food donation processes with **real-time tracking**, **AI-based logistics optimization**, and **predictive analytics**.
